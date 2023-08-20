@@ -7,6 +7,8 @@
   - [Inspirations](#inspirations)
     - [Japanese](#japanese)
       - [Japanese Style Notes](#japanese-style-notes)
+    - [Mediterranean](#mediterranean)
+      - [Mediterranean Notes](#mediterranean-notes)
   - [Design Ideas](#design-ideas)
     - [Flower Beds](#flower-beds)
       - [Flower Beds Notes](#flower-beds-notes)
@@ -71,6 +73,60 @@
 > Stepping stones weaving their way to a pond or sculptural focal point – a stone lantern or water basin – are ideal for creating movement and interest and encourage visitors to view the space from different angles.
 >Foliage plants such as ferns and Fatsia japonica will thrive in damp, shady spots and add plenty of shape and texture while softer, undulating stars like the grass Hakonechloa macra, common box and colorful pieris are happy in a sunny situation.
 >Complete your [Zen garden ideas](https://www.gardeningetc.com/design/zen-garden-ideas) with a few eye-popping features such as potted bonsai, a cloud-pruned shrub or bamboo water feature.
+
+### Mediterranean
+
+Pale gravel, tiled patios and walls painted in vibrant shades of terracotta, mustard, azure blue and white all instantly conjure up the mood of these sun-soaked spaces.
+
+Plant with fragrant and silver-leaved beauties such as `santolina`, `Caryopteris` `clandonensis`, `artemesia` and of course – `lavender` and add in potted feature plants such as a stately `Chusan palm` or `olive tree`.
+
+Scented and glossy leaved climbers clambering over a pergola will provide shade for an atmospheric spot for dining. When dotted with flickering lanterns, come evening, it will be hard to recall whether you are at home or away.
+
+1. Tuscan Inspired Outdoor Kitchen
+   1. Rustic-style
+   2. Deep terracotta details with pare-back furniture
+   3. Decorative paving
+   4. Wooden pergola
+2. Use repeat planting
+   1. The opposite of an English cottage garden, which tend to be a jumble of plants
+   2. Use the same plants repeatedly, use fewer plants
+   3. Neat, mound-like growing habits – lavender and santolina for example
+   4. Repeating cistus, eryngium, hebe and euphorbia though the space.
+   5. Masses of potted pelargonium's. Vibrant beauties to liven up dull corners, a flight of steps or to pep up borders of silver-leaved stars such as lavender and rosemary. Although there are plenty of vivid shades to choose from, stick to the same color for maximum impact
+3. Choose Low maintenance gravel
+   1. Pale-colored gravel. Water-permeable weed-suppressing membrane underneath, it's a quick and easy, low-maintenance way of transforming even the most unpromising of spaces.
+   2. Soften the edges where gravel meets a pathway by allowing thyme, oregano or marjoram to spill over onto it
+   3. Add extra interest by arranging large stones and small boulders in a naturalistic way across the gravel
+   4. Angular chippings between `10mm` and `20mm` for _garden path_ ideas or areas where you are likely to walk, as this size is less likely to get caught in wheels and under shoes. Finer shingle, measuring between `6mm` to `8mm`, is perfect for spreading around plants and on _borders_.
+4. Create Shady zones for sitting
+   1. Introduce climbers
+   2. Use pergola's
+   3. Use lots of fragrance near sitting areas
+5. Paint Pergola's black and red
+   1. Adds drama and structure
+   2. Contrasts flowers and foliage using a dark back-drop
+6. Use large pots often
+   1. Oversized pots and planters are characteristic of Mediterranean garden ideas and terracotta is the obvious choice, with its warm color, tactile feel and ability to soak up and reflect back the heat of the summer sun
+   2. Use them to make focal points
+   3. Cobalt blue and Sunny Yellow tones for pots mixed with terracotta
+      1. Use Masonry paint
+         1. Little Greene's Mambo or Route One
+7. Mix in mediterranean colors
+   1. pastels and ochres
+      1. great backdrops
+   2. Use lots of vibrant colors as backdrops to dull/dark plants like palms
+   3. add rustic timber near potted plants and vibrant colors to contrast
+   4. Carmine and Smalt look fantastic paired with architectural foliage (green-blues and grey-silvers) and terracotta
+   5. Brick walls look great in Ashes of Roses (color name)
+   6. Use raw and tactile materials like brick, limestone, acacia
+8. Use lots of fragrant species
+9. Use architectural foliage and palms/yuccas
+10. Use a few soothing water features to contrast the heat and tuscan colors
+
+#### Mediterranean Notes
+
+> [!NOTE]\
+> Fig trees produce more fruit when their roots are confined in a pot
 
 ## Design Ideas
 

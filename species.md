@@ -33,6 +33,36 @@ We will organize the species by zone.  We will also include the following inform
   - Winter
 - Hardiness Zone
 
+## Table of Contents
+
+- [Species List](#species-list)
+  - [Table of Contents](#table-of-contents)
+  - [Zone 1](#zone-1)
+  - [Zone 2](#zone-2)
+  - [Zone 3](#zone-3)
+  - [Zone 4](#zone-4)
+  - [Zone 5](#zone-5)
+  - [List of Plants](#list-of-plants)
+    - [Perennials](#perennials)
+    - [Ground Covers](#ground-covers)
+    - [Shade Tolerant Edibles](#shade-tolerant-edibles)
+    - [Food Forest Starter Bundle](#food-forest-starter-bundle)
+    - [Vines/Climbers](#vinesclimbers)
+    - [Trees](#trees)
+      - [Fruiting](#fruiting)
+      - [Flowering / Ornamental](#flowering--ornamental)
+    - [Vegetables](#vegetables)
+    - [Ornamental's and Flowers](#ornamentals-and-flowers)
+    - [Drought Tolerant](#drought-tolerant)
+    - [Architectural Foliage](#architectural-foliage)
+      - [Japanese Inspired](#japanese-inspired)
+    - [Mushrooms](#mushrooms)
+      - [Wood](#wood)
+      - [Compost](#compost)
+      - [Garden](#garden)
+      - [Odd Balls](#odd-balls)
+      - [Wild Harvest](#wild-harvest)
+
 ## Zone 1
 
 ## Zone 2
@@ -115,6 +145,18 @@ We will organize the species by zone.  We will also include the following inform
 - periwinkle *
 - huperizene serata
 - alyssum (many varieties) *
+- Pachysandra terminalis
+- cornus canadensis
+- Ajuga reptans
+- Persicaria
+- Creeping Jenny
+- Phlox subulata
+- chionodoxa
+- Geranium endressi
+- Gaultheria
+- Calluna vulgaris
+  - ‘Gold Haze’
+- Periwinkle
 
 ### Shade Tolerant Edibles
 
@@ -179,7 +221,10 @@ We will organize the species by zone.  We will also include the following inform
 
 - Choyote/choco (perennial)
 - Malabar Spinach (perennial)
+- Campsis radicans
+  - Madame Galen
 - Grapes (perennial)
+  - Leon Millot
 - Butterfly Pea (perennial)
 - Kiwi (perennial)
 - Kiwi Berry (perennial)
@@ -285,10 +330,14 @@ We will organize the species by zone.  We will also include the following inform
   - Baby
   - Viking
   - Climbing
+  - Egyptian
 - Tomatoes
 - Chillies
 - Cucumbers
 - Aubergines
+- Broccoli
+- Cauliflower
+- Fav a Beans
 
 ### Ornamental's and Flowers
 
@@ -391,6 +440,8 @@ We will organize the species by zone.  We will also include the following inform
     - Bobbie James
     - Shropshire Lass
     - Blush Noisette
+- osteospermum
+- gazania
 
 ### Drought Tolerant
 
@@ -399,7 +450,12 @@ We will organize the species by zone.  We will also include the following inform
 - Thyme
 - Bay
 - Olive
+- Italian Cypress
 - Agapanthus
+- Santolina
+- Caryopteris
+  - Clandonensis
+- Chusan Palm
 - Dierama pulcherrimum
 - Bupleurum Fruticosum
 - Anthericum liliago
@@ -413,7 +469,7 @@ We will organize the species by zone.  We will also include the following inform
 - Salvia Patens
 - Tulbaghia Violacea
 - Sempervivum Arachnoideum
-- Artemisia Ludoviciana
+- Artemesia Ludoviciana
   - Valerie Finnis
 - Convolvulus Cneorum
 - Cistus (rock rose)
@@ -431,7 +487,11 @@ We will organize the species by zone.  We will also include the following inform
 - Celmisia Semicordata
 - Erigeron Karvinskianus
 - HollyHock
-- Euphorbia characias
+- Euphorbia
+  - characias
+  - Mellifera
+  - Wulfenii
+  - cyparissias (ground cover) **
 - Eryngium
   - Peacock Blue
   - Big Blue
@@ -440,11 +500,33 @@ We will organize the species by zone.  We will also include the following inform
 - Kniphofia (Red Hot Pokers)
   - Mango Popsicle
   - Traffic Lights
+- Cercis siliquastrum
+- tamarisk
 
 ### Architectural Foliage
 
 - Cordyline Australis
+- Echinops
+  - Veitch's Blue
+  - Arctic Glow
 - Ficus Carica
+- Musa Basjoo
+- Sweet Fennel
+- Agave
+- Hakonechola Macra
+- Fatsia Japonica
+- Hosta
+  - Halcyon
+  - So Sweet
+  - Sum and Substance
+- Heuchera
+  - Chocolate (great for paths)
+- Eryngium Bourgatti
+- Stachys byzantina
+- Asparagus aethiopicus
+  - Asparagus densiflorus
+- Tradescantia
+  - Zebrina Violet
 
 #### Japanese Inspired
 
@@ -457,3 +539,45 @@ We will organize the species by zone.  We will also include the following inform
 - Hakonechloa macra (ornamental grass) (sunny)
 - common box (ornamental grass) (sunny)
 - colorful pieris (sunny)
+
+### Mushrooms
+
+Here is a list of all the ideal mushrooms for growing.
+
+Medicinal and edibles will be marked separately.
+
+#### Wood
+
+- Oyster (edible)
+  - Lung
+  - King
+  - Pink
+  - Yellow
+- Shiitake (edible)
+- Lions Mane (medical)(edible)
+- Enokitake (edible)
+- Jelly Ear (edible)
+- Reishi (medical)
+- Turkey Tail (edible)
+- Omphalotus N.
+
+#### Compost
+
+- Agaricus (edible)
+- Psilocybe (medical)
+
+#### Garden
+
+- Stropharia (edible)
+  - Wine Cap
+  - King
+  - Yellow
+- Morel (edible)
+  - Black
+  - White
+
+#### Odd Balls
+
+- Cordyceps (medical)
+
+#### Wild Harvest

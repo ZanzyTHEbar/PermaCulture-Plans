@@ -1,5 +1,26 @@
 # Garden Design Plans
 
+## Table of Contents
+
+- [Garden Design Plans](#garden-design-plans)
+  - [Table of Contents](#table-of-contents)
+  - [Inspirations](#inspirations)
+    - [Japanese](#japanese)
+      - [Japanese Style Notes](#japanese-style-notes)
+  - [Design Ideas](#design-ideas)
+    - [Flower Beds](#flower-beds)
+      - [Flower Beds Notes](#flower-beds-notes)
+    - [Edging](#edging)
+    - [Patio](#patio)
+    - [Living Wall](#living-wall)
+      - [Passive](#passive)
+      - [Grow-Bags](#grow-bags)
+      - [Kits](#kits)
+      - [How-to](#how-to)
+  - [Plans](#plans)
+  - [Notes](#notes)
+  - [Goals](#goals)
+
 ## Inspirations
 
 ### Japanese

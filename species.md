@@ -216,6 +216,7 @@ We will organize the species by zone.  We will also include the following inform
 - Feijoa
 - Pineapple
 - Borage
+- Moringa Olifera
 
 ### Vines/Climbers
 
@@ -337,7 +338,7 @@ We will organize the species by zone.  We will also include the following inform
 - Aubergines
 - Broccoli
 - Cauliflower
-- Fav a Beans
+- Fava Beans
 
 ### Ornamental's and Flowers
 
@@ -442,6 +443,7 @@ We will organize the species by zone.  We will also include the following inform
     - Blush Noisette
 - osteospermum
 - gazania
+- Christia obcordata
 
 ### Drought Tolerant
 
@@ -502,6 +504,7 @@ We will organize the species by zone.  We will also include the following inform
   - Traffic Lights
 - Cercis siliquastrum
 - tamarisk
+- Hibiscus
 
 ### Architectural Foliage
 

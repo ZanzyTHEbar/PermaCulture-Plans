@@ -280,13 +280,59 @@ Always include some plants with year round interest too. Here are some suggestio
 
 ## Plans
 
+- Kitchen Garden (potager)
+- Herb Garden
+- Farm
+- Water Garden
+- Citrus and Palm Garden
+- Olive Grove and Cactus Garden
+- Round Terrance
+- Garage
+- Workshop
+- Veranda
+  - Patio
+- Driveway
+- Front of House
+  - Patio
+  - Flower Garden
+- Extensions
+- Basement 1
+
 1. Veranda from back of house
    1. Spiral stairs down to sunken seating area
    2. Raised bed wall around seating area
    3. Paulownia tree in  center of seating area
    4. Table around tree
    5. Tiled with blue/dark blue floor tiles and walls rendered with Lime and small light blue mosaic tiles
-2.
+2. Gravel the driveway
+   1. Thick layer of gravel
+      1. Geo-textile placed first
+      2. Garden mesh placed second to reinforce gravel
+   2. Flowering blue, pink and white plants on the sides
+      1. Soft natural stone border
+      2. Silver foliage intermixed
+   3. Terrace wall curves away from the driveway to make a rounded terrance section
+      1. Sitting area for viewing the garden
+   4. Driveway leads to Garage for electric car
+   5. Driveway branches off to first garden
+3. First garden
+   1. Raised beds
+   2. Geometrically organized
+   3. Wood chip and gravel pathway
+      1. Easy maintenance
+      2. Water battery
+   4. Ornamental and Edible arrangements
+   5. Potted Plants intermixed
+   6. Mostly wooden beds with some stone beds intermixed
+4. Garage for car
+   1. Gravel around and in the Garage
+   2. Guttering and rain collection
+   3. Solar Panels
+      1. Batteries
+      2. Charge point for car
+   4. Flower garden around border
+   5. Ornamental foliage inside
+5. Workshop
 
 ## Notes
 

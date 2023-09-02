@@ -54,6 +54,7 @@ We will organize the species by zone.  We will also include the following inform
     - [Vegetables](#vegetables)
     - [Ornamental's and Flowers](#ornamentals-and-flowers)
     - [Drought Tolerant](#drought-tolerant)
+    - [Shrubs](#shrubs)
     - [Architectural Foliage](#architectural-foliage)
       - [Japanese Inspired](#japanese-inspired)
     - [Mushrooms](#mushrooms)
@@ -112,14 +113,20 @@ We will organize the species by zone.  We will also include the following inform
 - Purple Creeping Thyme **
 - Soleirolia soleirolii (replacement to moss for zone 9) **
 - Kurapia (replacement to grass for zone 9) **
+- Pachysandra terminalis **
+- Herniaria glabra **
 - Corsican Mint **
 - Aubrita Hydrida **
-- Phlox Subulata **
+- Phlox Subulata (rockery) **
+  - Alpine
+  - Tamaongalei
+  - Eva
 - Creeping Gazania **
 - Sedums (rockeries, non-foot traffic areas) **
-  - Angelina
+  - Angelina (paths)
   - Red Dragons Blood
   - Stone Crop
+  - creeping (paths)
 - Golden Creeping Jenny (shady area) **
 - Sweet Woodruff (shady area) **
 - Blue carpet Juniper *
@@ -145,18 +152,19 @@ We will organize the species by zone.  We will also include the following inform
 - periwinkle *
 - huperizene serata
 - alyssum (many varieties) *
-- Pachysandra terminalis
 - cornus canadensis
 - Ajuga reptans
 - Persicaria
 - Creeping Jenny
-- Phlox subulata
 - chionodoxa
 - Geranium endressi
 - Gaultheria
 - Calluna vulgaris
   - ‘Gold Haze’
 - Periwinkle
+- Dwarf BugleWeed
+- Creeping Speedwell
+-
 
 ### Shade Tolerant Edibles
 
@@ -354,7 +362,6 @@ We will organize the species by zone.  We will also include the following inform
 - dahlias
   - Akita
   - Reggae
-- erigeron
 - helianthus
 - asters
 - salvias
@@ -368,7 +375,6 @@ We will organize the species by zone.  We will also include the following inform
 - Alchemilla mollis
 - chocolate lace flower
 - brook flower
-- heuchera
 - fennel
 - Bowls Mauve wallflower
 - sweet peas
@@ -384,7 +390,6 @@ We will organize the species by zone.  We will also include the following inform
 - lavender
 - geraniums
 - ferns
-- phlox
 - nepeta
 - astrantia
 - Rudbeckia
@@ -407,8 +412,6 @@ We will organize the species by zone.  We will also include the following inform
 - lobelia
 - fuchsia
 - pelargonium
-- Heuchera
-  - Purple Petticoats
 - vinca minor
 - ajuga
 - begonia
@@ -470,7 +473,7 @@ We will organize the species by zone.  We will also include the following inform
   - Whirling Butterflies
 - Salvia Patens
 - Tulbaghia Violacea
-- Sempervivum Arachnoideum
+- Sempervivum Arachnoideum (rockery)
 - Artemesia Ludoviciana
   - Valerie Finnis
 - Convolvulus Cneorum
@@ -487,7 +490,7 @@ We will organize the species by zone.  We will also include the following inform
   - Jest AGM
   - Sunset AGM
 - Celmisia Semicordata
-- Erigeron Karvinskianus
+- Erigeron Karvinskianus (rockery)
 - HollyHock
 - Euphorbia
   - characias
@@ -505,10 +508,52 @@ We will organize the species by zone.  We will also include the following inform
 - Cercis siliquastrum
 - tamarisk
 - Hibiscus
+- Androsace Studiosorum (rockery)
+  - Salmon's Variety
+- Erodium (rockery)
+  - Matilda's Purple
+- Globularia Cordifolia (rockery)
+- Lewisia Cotyledon (rockery)
+  - Darcies Gems
+- Scleranthus Biflorus (rockery) (alternative to moss **)
+- Sedum Spathulifium (rockery)
+- Sedum kamtshaticum (rockery)
+  - Variegatum
+- Crocus (rockery)
+  - Chrysanthus
+  - Snow Bunting
+  - Blue Pearl
+  - Advanced
+- Dianthus (rockery)
+  - La Bourboule
+  - Evening Star * (others in the Star series)
+  - Memories
+- Gentiana Verna(rockery)
+- Pulsatilla vulgaris (rockery)
+  - Alba
+  - Pearl Bells
+- Allium Sikkimense (rockery)
+- Crepis Incana (rockery)
+
+### Shrubs
+
+- Viburnum Tinus
+- Rose Suffolk
+- Lavender
+- Box-leaved / Japanese holly
+- Lace-cap hydrangea
+- Gaultheria
+- Cordyline
+- Daphne
+  - Eternal Fragrance
+- Camellia
+  - Anticipation
 
 ### Architectural Foliage
 
-- Cordyline Australis
+- Cordyline
+  - Australis
+  - Pink Passion
 - Echinops
   - Veitch's Blue
   - Arctic Glow
@@ -522,8 +567,10 @@ We will organize the species by zone.  We will also include the following inform
   - Halcyon
   - So Sweet
   - Sum and Substance
-- Heuchera
+- Heuchera (rockery)
   - Chocolate (great for paths)
+  - Purple Petticoats
+  - Pulchellum (dwarf)
 - Eryngium Bourgatti
 - Stachys byzantina
 - Asparagus aethiopicus
@@ -542,6 +589,22 @@ We will organize the species by zone.  We will also include the following inform
 - Hakonechloa macra (ornamental grass) (sunny)
 - common box (ornamental grass) (sunny)
 - colorful pieris (sunny)
+- Acer Palmatum
+  - Beni-otake
+  - Katsura
+- Iris Ensata
+  - Rose Queen
+- Pinus Mugo
+  - Mops
+- Enkianthus campanulatus
+- Rhododendron
+  - Snow Hill
+- Prunus incisa
+  - The Bride
+- Wisteria floribunda
+  - Domino
+- Primula japonica
+  - Miller’s Crimson
 
 ### Mushrooms
 

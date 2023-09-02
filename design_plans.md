@@ -19,6 +19,9 @@
       - [Grow-Bags](#grow-bags)
       - [Kits](#kits)
       - [How-to](#how-to)
+    - [Garden Walls](#garden-walls)
+    - [Gravel](#gravel)
+      - [Securing Gravel](#securing-gravel)
   - [Plans](#plans)
   - [Notes](#notes)
   - [Goals](#goals)
@@ -277,6 +280,41 @@ Always include some plants with year round interest too. Here are some suggestio
 - **Summer color** Choose a mix of plants such as `campanula`, `lobelia`, `fuchsia`, trailing `pelargonium's`, `Heuchera Purple Petticoats`, `vinca minor` (also known as lesser periwinkle), `ajuga` and `Begonia 'Million Kisses'` to add pops of pretty color to your living wall.
 
 - **Grasses** Varieties such as `Carex oshimensis` ‘Evergold’ (sedge) and succulents like sedum are great for providing year-round interest and texture to fill out your living wall. Grasses also add a tactile quality - you won't be able to pass by without stroking them.
+
+### Garden Walls
+
+1. Espaliered Trees
+   1. Great for privacy
+   2. Defining zones in a garden
+   3. Adding a shot of green along a stone wall or dull backdrop
+2. Elevate the mood with eye-catching hues
+3. Add whimsical windows to walls
+   1. Arched windows are a great way to break up a stretch of walls
+4. Sooth a scene with a Water Wall
+5. Add extra greenery with wreaths
+6. Tiled garden walls to add texture and contrast
+7. Play with texture on the wall
+8. Wall veneers are a great way to change texture and mood
+9. Play with shadows for an emotional impact
+10. Mix and match finishes
+11. Paint a mural or install mosaic tiles
+12. Pep of a wall with hanging baskets and/or pocket planters
+
+### Gravel
+
+1. Use gravel around seating zones
+2. Integrate with patio for naturalist edge and more texture
+3. Mix with corten steal (or any stair design) for stylish steps
+4. Gravel walkways are low-maintenance and easy to replace
+5. Great as the base of a rockery
+
+#### Securing Gravel
+
+1. Start by clearing the area where you want to lay your gravel. Dig up any weeds and flatten the soil.
+2. Then, set a waterproof membrane down, geo-textile is also a great option. This will prevent weeds from growing up through your gravel, and will help you achieve cleaner edges.
+3. Add a gravel pave system (hard-wearing interlocking bases that help keep gravel or stones in a set place.) or use chicken-wire or other wire mesh to secure the gravel. This structure is needed if you're using it for a pathway or driveway ideas. Look for recycled plastic types to be kinder to the environment.
+4. Once you've added your gravel, rake it out to make sure it's evenly distributed. It's a good idea to then give the area a rinse down with your best garden hose. This will wash away any dust and get the stones looking their best.
+5. Adding edging to your gravelled area will help to prevent it from escaping into the lawn or flowerbeds.
 
 ## Plans
 

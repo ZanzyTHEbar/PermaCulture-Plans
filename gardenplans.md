@@ -6,6 +6,7 @@
   - [Table of Contents](#table-of-contents)
   - [Introduction](#introduction)
     - [Steps](#steps)
+  - [Approach](#approach)
   - [Notes](#notes)
 
 ## Introduction
@@ -156,6 +157,44 @@ Creating a food forest is a large endeavour that requires a lot of planning.  Th
       2. > **Note**: permaculture principles are a great way to evaluate designs.
    6. Design around what we want to do in the garden and what we want to eat.
       1. > **Note**: design around what we want to do in the garden, and not what we want the garden to look like.
+
+## Approach
+
+1. Fruit trees first
+
+   These take the longest to establish. I’d spend as much as we could afford on this. If this means growing from seed then so be it, but ideally around 3yo trees. These also form the base for all the other planting and design systems.
+
+2. Mulch mulch mulch
+
+   If possible with a cardboard layer first, but if not, then just mulch as is. It will still improve soil quality and make the weeds easier to pull out in future. The mulch doesn’t have to be very broken down if you’re not planning on planting yet.
+
+   If funds allow, then I would do a 30cm layer of compost first, followed by 20-30cm of mulch.
+
+3. Pick a small area to focus on
+
+   Even in a small garden it can get overwhelming. And I found if plants were too far apart, they would die from the elements. Picking a small area and focusing on that is much less overwhelming if you’re busy. Pick 1-3 areas based on how much time you have, and expand these as they get established.
+
+   During the establishing period, I would just plant heaps of what I know works in our area to stop grass taking over. The plants can always be replaced later.
+   Plant lots of select natives for this purpose.
+
+   Never leave the ground bare.
+
+4. Add more mulch every 6-12 months
+
+   Once you have thick established plantings, they will make their own mulch, but for at least the first 3 years you’ll need to physically add mulch.
+
+5. Add Worm Towers to beds and garden areas
+
+   Decreases vermin pressure and feeds/attracts worms to the area.
+
+   Grab a PCV or ceramic/terracotta pipe (15cm diameter).
+   Cut the pipe in 50cm sections. Then drill holds into the bottom third of each section.
+   > [!NOTE]\
+   > A 22mm auger drill bit works the best.
+   Drill holes in the top of push-on pcv pipe caps, then attach recycled door handles.
+   Cut a slit on the side of the cap, so that it'll be easier to pull off.
+
+   All that is left is to add composting worms (tiger worms) and food scraps.
 
 ## Notes
 

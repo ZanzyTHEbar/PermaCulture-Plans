@@ -23,6 +23,10 @@
     - [Gravel](#gravel)
       - [Securing Gravel](#securing-gravel)
   - [Plans](#plans)
+    - [Log Raised Bed](#log-raised-bed)
+      - [How to Build](#how-to-build)
+      - [Alternate Method](#alternate-method)
+    - [Water Wise Design](#water-wise-design)
   - [Notes](#notes)
   - [Goals](#goals)
 
@@ -371,6 +375,88 @@ Always include some plants with year round interest too. Here are some suggestio
    4. Flower garden around border
    5. Ornamental foliage inside
 5. Workshop
+
+### Log Raised Bed
+
+Figure out the site and then prepare it.
+
+Level the ground and add a small layer of gravel to help drainage and weed.
+
+Each log will be roughly `16cm` in diameter.
+
+A good sized raised bed is `120cm x 240cm`.
+
+Each log should be roughly `35cm` greater than the required dimensions of the bed.
+
+So, a `120cm x 240cm` bed will be `155cm x 275cm`.
+
+A good rule of thumb is 3-layers of logs per bed.
+
+Logs that are `430cm` should work, so that each log can do one side and one end of the bed.
+
+In this way, only 6 logs are needed per bed.
+
+Repeat this process with measurements for smaller or larger beds.
+
+#### How to Build
+
+Rip first layer logs in half length-wise to great the base.
+
+Next, cut divots in every subsequent layer where the layer will mate with the layer below it.
+
+To cut divots in logs, roughly measure the place to cut (eye-balling is fine)and then cut vertical slits with varying depth to create a hemisphere divot. Clean up the burrs and smooth the divot out to great a better mating surface.
+
+In the divot, the deepest depth in the middle with progressively shallower depths going outwards to form a hemisphere shape, best for mating to other logs.
+
+Constantly measure distance using cross-hatch and straight techniques for every layer to ensure a straight bed.
+
+Use a wooden board and a level, or a laser level, to check the level of each layer to ensure there is no deviation.
+
+4 nails at the top-layer corners to hold it together. Top-down.
+
+Pines, hemlock, eucalyptus are best for longevity.
+
+Requires almost no fasteners or drilling.
+
+Looks more rustic.
+
+#### Alternate Method
+
+The log-cabin layout can be achieved by alternating the corners, no divot cuts, but nails/fasteners for each layer at the corners and the tops. Just stagger the joints.
+
+Requires more drilling and less cutting.
+
+Looks more modern and clean.
+
+### Water Wise Design
+
+Passive Water Harvesting Techniques for small garden areas.
+
+Let gravity do the work for us as much as possible.
+
+Slow water down, absorb water into the landscape, store water as much as possible.
+
+1. Mini-Swales
+   1. Level trench that is on-contour with the slope of the garden.
+   2. Placed strategically to slow and hold water in the landscape.
+   3. Utilize garden paths as swales
+      1. Catch and hold water during the rain
+      2. Organic matter holds water and allows soaking into the ground
+      3. Used as paths during dry periods
+   4. Prevent swales from flooding plant-zones and drowning roots
+      1. Direct swales to sub-soil
+      2. Surround planting zones, but ensure planting zones are higher elevation than the swale.
+   5. Rise on the down-slope side (berm) plant fruit trees and guilds of perennials.
+2. Gravel filled trenches
+   1. French Drains
+      1. Trench lined with geo-textile and filled with pebbles/gravel.
+      2. Approx 15cm deep.
+   2. Channel from the drive-way and the over-flow of the rain-water harvesting tank and direct it into gravel-filled tranches next to in-ground beds.
+   3. Dig channel deeper as you go up an incline, to ensure the channel is level
+      1. Try to ensure that from the water entry to the end of the channel there is a slight slope downwards, if not possible make it level.
+   4. End of the water channels should always be a pit containing organic matter and topped with gravel. Of any size small or medium. This will act as a water-store.
+3. Wicking Raised Beds
+4. Ollas
 
 ## Notes
 

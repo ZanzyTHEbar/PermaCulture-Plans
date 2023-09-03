@@ -160,7 +160,7 @@ We will organize the species by zone.  We will also include the following inform
 - Geranium endressi
 - Gaultheria
 - Calluna vulgaris
-  - ‘Gold Haze’
+  - Gold Haze
 - Periwinkle
 - Dwarf BugleWeed
 - Creeping Speedwell

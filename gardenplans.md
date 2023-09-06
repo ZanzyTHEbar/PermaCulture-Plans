@@ -7,6 +7,7 @@
   - [Introduction](#introduction)
     - [Steps](#steps)
   - [Approach](#approach)
+  - [Build Soil](#build-soil)
   - [Notes](#notes)
 
 ## Introduction
@@ -27,12 +28,20 @@ Creating a food forest is a large endeavour that requires a lot of planning.  Th
    3. Focus on what we want, not what we don't want.
 3. Observe the site for `Sectors` and `Zones`.:
    1. Record all of these factors using a `base-map`.
-      1. Take a screenshot of the site from Google Maps (or drone aerial footage).
-      2. Put it into canva and overlay shapes on all immovable structures (house, driveway, fences, rivers, established trees).
-      3. Get detailed, include windows and doors, to show access points and view points.
-      4. Remove screenshot from the background.
-      5. Put compass on base-map.
-      6. Document all observations on this base-map.
+      1. Method 1:
+         1. Take a screenshot of the site from Google Maps (or drone aerial footage).
+         2. Put it into canva and overlay shapes on all immovable structures (house, driveway, fences, rivers, established trees).
+         3. Get detailed, include windows and doors, to show access points and view points.
+         4. Remove screenshot from the background.
+         5. Put compass on base-map.
+         6. Document all observations on this base-map.
+      2. Method 2:
+         1. Find the site in Google Earth Pro (desktop edition).
+         2. Navigate to <https://contourmapcreator.urgr8.ch/> to generate a contour map.
+            1. <https://permacultureapprentice.com/food-forest-swales-layout/> how to use contour map creator.
+         3. Download the contour map as a KML file.
+         4. Open the KML file in Google Earth Pro.
+         5. Create a new folder in Places, drag the KML file into the new folder.
    2. Sunlight
       1. Rise and set during solstices and equinoxes.
    3. Water
@@ -58,7 +67,8 @@ Creating a food forest is a large endeavour that requires a lot of planning.  Th
       1. Floods
       2. Droughts
    2. Capture and Store Water
-      1. > **Note**: soil rich in organic matter holds up to 10x it's weight in water
+      1. > [!NOTE]\
+         > soil rich in organic matter holds up to 10x it's weight in water
          1. Use fresh copy of base-map to ideate.
       2. Earth Works
          1. Swales on contour
@@ -83,13 +93,17 @@ Creating a food forest is a large endeavour that requires a lot of planning.  Th
              7. Storage
              8. Hose bibs
 5. Design for Soil
-   1. > **Note**: soil is the foundation of the garden.
-      1. Use fresh copy of base-map to ideate.
-      2. > **Warning**: Never leave the soil exposed, always mulch.
+   1. > [!NOTE]\
+      > soil is the foundation of the garden.
+      1. Use fresh copy/layer of base-map to ideate.
+      2. > [!WARNING]\
+         > Never leave the soil exposed, always mulch.
    2. Chop and Drop
-      1. > **Note**: chop and drop is the best way to build soil.
+      1. > [!NOTE]\
+         > chop and drop is the best way to build soil.
       2. Select plants that are good for chop and drop.
-         1. > **Note**: chop and drop plants are usually nitrogen fixers, or fast growing plants.
+         1. > [!NOTE]\
+            > chop and drop plants are usually nitrogen fixers, or fast growing plants.
             1. Every Fall prune and drop cuttings in the paths, and along the swales.
             2. Cover with wood chips for a tidier look.
          2. Acacia
@@ -97,7 +111,8 @@ Creating a food forest is a large endeavour that requires a lot of planning.  Th
          4. Grasses
          5. Ceanothus
    3. Compost
-      1. > **Note**: Top dress with compost early spring and cover with mulch.
+      1. > [!NOTE]\
+         > Top dress with compost early spring and cover with mulch.
       2. Red wiggler worm farm, with ability to make compost tea.
       3. Compost bins.
       4. Hot compost, safely designed to kill weed seeds.
@@ -120,7 +135,8 @@ Creating a food forest is a large endeavour that requires a lot of planning.  Th
          2. Short trees
             1. ShoeString Acacia (Acacia Stenophylla)
                1. Guild Species
-                  1. > **Note**: Species selection should strive to be multi-functional.
+                  1. > [!NOTE]\
+                     > Species selection should strive to be multi-functional.
                   2. Chop and Drop
                      1. Calendula (pollinator attractor)
                      2. Poppies (pollinator attractor)
@@ -146,17 +162,21 @@ Creating a food forest is a large endeavour that requires a lot of planning.  Th
       6. Roots
       7. Fungi
 7. Design Iteratively
-   1. > **Note**: design iteratively, and start with the top story and zones.
+   1. > [!NOTE]\
+      > design iteratively, and start with the top story and zones.
    2. Print many copies of the base-map.
    3. Make many designs, and iterate.
    4. Design for function first and form second.
       1. Choose design elements that solve a problem.
       2. Don't choose design elements just because they sound good.
    5. Explore permaculture principles.
-      1. > **Note**: permaculture principles are a great way to ideate.
-      2. > **Note**: permaculture principles are a great way to evaluate designs.
+      1. > [!NOTE]\
+         > permaculture principles are a great way to ideate.
+      2. > [!NOTE]\
+         > permaculture principles are a great way to evaluate designs.
    6. Design around what we want to do in the garden and what we want to eat.
-      1. > **Note**: design around what we want to do in the garden, and not what we want the garden to look like.
+      1. > [!NOTE]\
+         > design around what we want to do in the garden, and not what we want the garden to look like.
 
 ## Approach
 
@@ -196,6 +216,30 @@ Creating a food forest is a large endeavour that requires a lot of planning.  Th
 
    All that is left is to add composting worms (tiger worms) and food scraps.
 
+## Build Soil
+
+1. Don't leave the soil bare.
+2. Slow, spread, and sink water.
+3. Use annuals, natives, and cover-crops as chop-and-drop mulch.
+4. Use compost as a top dressing.
+5. Use non-pine wood chips as a top dressing, unless you are trying to lower the pH of the soil.
+6. Don't disturb the subsoil and encourage biological tillage.
+7. Use a broad fork to aerate the soil yearly.
+8. use keyline plowing to aerate the soil yearly.
+   1. Do this until the soil is healthy and thriving, then reduce the frequency until the soil is self-sustaining.
+   2. > [!NOTE]\
+      > Keyline plowing is a great way to aerate the soil and bring water into the hard-pan, but it is not a substitute for a broad fork.
+9. Use crop rotation to mimic diversity.
+10. Plant in Consortiums and Guilds to decrease the amount of soil disturbance and time.
+11. Inoculate the soil with mycorrhizal fungi.
+    1. Dip exposed roots of seedlings into water enriched with the spore mass of one or more mycorrhizal species.
+    2. Broadcast spores onto the root zones of existing trees and shrubs using spores in a water carrier.
+    3. Place a little soil from the root zone of proven mushroom-producing trees around seedlings in the nursery or soon after planting.
+    4. Inoculate the compost of pot-grown plants with a mixture of dried spores from suitable species.
+    5. When planting trees or shrubs, scatter a dry spore mixture into the planting hole.
+    6. Use woody mulch to feed the fungi.
+12. Create self-sustaining fertility with nitrogen fixing trees and dynamic accumulator plants
+
 ## Notes
 
 Plant Acacia Stenophylla (ShoeString Acacia) as a top story first, then plant cover crop to protect the soil.
@@ -207,23 +251,25 @@ Once the Acacia Stenophylla (ShoeString Acacia) is established, plant the rest o
 - Build garden paths with compost and wood chips in year 1 and 2.
   - Transition to flag stone paths in year 3 in certain areas.
 - Fruit Tree Guild
-  - > **Note**: Fruit tree guilds are the ideal way to plant fruiting tree species. A guild is a group of plants that are grown together to support each other.
-  - > Plant guild species around the fruit tree.
-  - > Use fresh copy of base-map to ideate.
+  - > [!NOTE]\
+    > Fruit tree guilds are the ideal way to plant fruiting tree species. A guild is a group of plants that are grown together to support each other.\
+    > Plant guild species around the fruit tree.\
   - Pollinator Attractor
   - Pest Detractor
   - Biomass Accumulator
   - Nitrogen Fixer
   - Fruit Tree
 - Consortium
-  - > **Note**: A consortium is a group of plants that are grown together to support each other.
-  - > Goal is to maximize the area you plant, for continuous yields.
+  - > [!NOTE]\
+    > A consortium is a group of plants that are grown together to support each other.\
+    > Goal is to maximize the area you plant, for continuous yields.
   - One planting event to minimize soil disturbance.
   - Favours long-term species.
   - Plant species that have different lifecycle times, to maximize the area you plant.
   - Consortiums should be specific to the ecological niche (micro-climate) they are planted in.
   - Example Consortium
-    - > **Note**: This is an example of a consortium, not a guild, though a lot of the same principles apply.
+    - > [!NOTE]\
+      > This is an example of a consortium, not a guild, though a lot of the same principles apply.
     - Jujube (chinese date) - main crop (fruit) (live for 100+ years)
     - Calendula - chop and drop and pollinator attractor (flowers for tea, salves) (live for 1 year)
     - Artichoke - biomass accumulator (flower for food) (live for 5+ years)

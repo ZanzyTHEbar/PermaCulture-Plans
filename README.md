@@ -12,6 +12,7 @@ This is a collection of ideas and documentation for designing our garden.
   - [Species](#species)
   - [Monitoring](#monitoring)
   - [Miscellaneous](#miscellaneous)
+  - [How to Design a Permaculture Property](#how-to-design-a-permaculture-property)
 
 ## Introduction
 
@@ -74,6 +75,28 @@ Each zone will have a specific purpose and will be designed to meet that purpose
 ## Miscellaneous
 
 - [Miscellaneous](misc.md)
+
+## How to Design a Permaculture Property
+
+- Start with yourself and get a clear idea of what relevant skills and knowledge you have along with your strengths.
+
+- Identify your vision and goals because clear intentions speed both design and implementation, prevent wasted effort and save time.
+
+- List your personal resources and limitations to know how much time, money, and energy you can devote to the project.
+
+- Get a base map, it’s the base layer and it forms the basis for the design – acquire one easily from Google Earth or Google Maps.
+
+- Collect info about your site from direct observations on the field and off- site resources such as books, local experts and the internet.
+
+- Conduct an analysis and assessment of your site to gain a deeper understanding of each aspect of it.
+
+- Summarize the info from the site analysis and assessment into a rough sketch to see if your goals are attainable.
+
+- Begin designing with a concept design and determine the relative placement and proportioning of the areas, use zone & sector planning and work through the scale of permanence.
+
+- Go into details with the detail design – determining size, shapes and locations of individual elements, use needs & yields and random assembly methods to determine how to connect pieces of design.
+
+- Make a plan for implementation; a plan of action to follow based on your priorities, budget and logical order of establishment, remember to plan in accordance to the scale of permanence.
 
 <!-- References -->
 [1]: <https://open.oregonstate.education/permaculture/front-matter/introduction/> "Introduction to Permaculture"

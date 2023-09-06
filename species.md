@@ -288,6 +288,7 @@ We will organize the species by zone.  We will also include the following inform
 - Fig
 - Nectarine
 - Olive
+- Jujube
 
 #### Flowering / Ornamental
 
@@ -447,6 +448,7 @@ We will organize the species by zone.  We will also include the following inform
 - osteospermum
 - gazania
 - Christia obcordata
+- Freesia (very strong perfume)
 
 ### Drought Tolerant
 

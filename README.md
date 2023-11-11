@@ -62,7 +62,7 @@ Each zone will have a specific purpose and will be designed to meet that purpose
 
 ## Syntropic Agroforestry
 
-- [Syntropic Agroforestry](syntropic-agroforestry.md)
+- [Syntropic Agroforestry](syntropic_agroforestry.md)
 
 ## Species
 

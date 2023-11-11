@@ -348,6 +348,24 @@ We will organize the species by zone.  We will also include the following inform
 - Broccoli
 - Cauliflower
 - Fava Beans
+- Peppers
+  - Rezha Macedonian Heirloom
+  - Golden Nugget
+  - Black Jalapeno
+  - Candy Cane
+  - Purple Tiger
+  - Tobago Seasoning
+  - Yellow Scotch Bonnet
+  - Yellow Ghost
+  - Murasaki Purple
+  - Banana Pepper
+  - Aji Amarillo
+  - Aji Pineapple
+  - Aji Lemon Drop
+  - Aji Charapita
+  - Aji Panca
+  - Aji Omnicolor
+  - Aji Fantasy
 
 ### Ornamental's and Flowers
 

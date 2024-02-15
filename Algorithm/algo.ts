@@ -3,7 +3,7 @@
 
 const prompt = require("prompt-sync")({ sigint: true });
 
-export {};
+export { };
 
 interface PlantMetadata {
   name: string;

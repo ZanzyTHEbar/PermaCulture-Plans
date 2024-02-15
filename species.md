@@ -37,11 +37,6 @@ We will organize the species by zone.  We will also include the following inform
 
 - [Species List](#species-list)
   - [Table of Contents](#table-of-contents)
-  - [Zone 1](#zone-1)
-  - [Zone 2](#zone-2)
-  - [Zone 3](#zone-3)
-  - [Zone 4](#zone-4)
-  - [Zone 5](#zone-5)
   - [List of Plants](#list-of-plants)
     - [Perennials](#perennials)
     - [Ground Covers](#ground-covers)
@@ -51,28 +46,19 @@ We will organize the species by zone.  We will also include the following inform
     - [Trees](#trees)
       - [Fruiting](#fruiting)
       - [Flowering / Ornamental](#flowering--ornamental)
-    - [Vegetables](#vegetables)
     - [Ornamental's and Flowers](#ornamentals-and-flowers)
     - [Drought Tolerant](#drought-tolerant)
     - [Shrubs](#shrubs)
     - [Architectural Foliage](#architectural-foliage)
       - [Japanese Inspired](#japanese-inspired)
+    - [HomeStead Must-haves](#homestead-must-haves)
+      - [Vegetables](#vegetables)
     - [Mushrooms](#mushrooms)
       - [Wood](#wood)
       - [Compost](#compost)
       - [Garden](#garden)
       - [Odd Balls](#odd-balls)
       - [Wild Harvest](#wild-harvest)
-
-## Zone 1
-
-## Zone 2
-
-## Zone 3
-
-## Zone 4
-
-## Zone 5
 
 ## List of Plants
 
@@ -327,45 +313,6 @@ We will organize the species by zone.  We will also include the following inform
 - holly
 - Prunus lusitanica
 - Lagerstroemia
-
-### Vegetables
-
-- Thyme
-- Oregano
-- Chives
-- Majoram
-- Arugula
-- Mizuna
-- Spinach
-  - Baby
-  - Viking
-  - Climbing
-  - Egyptian
-- Tomatoes
-- Chillies
-- Cucumbers
-- Aubergines
-- Broccoli
-- Cauliflower
-- Fava Beans
-- Peppers
-  - Rezha Macedonian Heirloom
-  - Golden Nugget
-  - Black Jalapeno
-  - Candy Cane
-  - Purple Tiger
-  - Tobago Seasoning
-  - Yellow Scotch Bonnet
-  - Yellow Ghost
-  - Murasaki Purple
-  - Banana Pepper
-  - Aji Amarillo
-  - Aji Pineapple
-  - Aji Lemon Drop
-  - Aji Charapita
-  - Aji Panca
-  - Aji Omnicolor
-  - Aji Fantasy
 
 ### Ornamental's and Flowers
 
@@ -625,6 +572,70 @@ We will organize the species by zone.  We will also include the following inform
   - Domino
 - Primula japonica
   - Miller’s Crimson
+
+### HomeStead Must-haves
+
+- Corn
+  - Sweet Corn
+  - Glass Gem Corn
+- Beans
+- Peas
+- Squash
+  - Pumpkin
+  - Tahitian Melon
+- Potatoes
+- Onions
+- Jerusalem Artichokes
+- Brassica
+  - Napa Cabbage
+  - Kale
+  - Gai lan
+  - Broccoli
+- Parsnips
+- Carrots
+- Beets
+- Tomatoes
+- Garlic
+- Peppers
+
+#### Vegetables
+
+- Thyme
+- Oregano
+- Chives
+- Majoram
+- Arugula
+- Mizuna
+- Spinach
+  - Baby
+  - Viking
+  - Climbing
+  - Egyptian
+- Tomatoes
+- Chillies
+- Cucumbers
+- Aubergines
+- Broccoli
+- Cauliflower
+- Fava Beans
+- Peppers
+  - Rezha Macedonian Heirloom
+  - Golden Nugget
+  - Black Jalapeno
+  - Candy Cane
+  - Purple Tiger
+  - Tobago Seasoning
+  - Yellow Scotch Bonnet
+  - Yellow Ghost
+  - Murasaki Purple
+  - Banana Pepper
+  - Aji Amarillo
+  - Aji Pineapple
+  - Aji Lemon Drop
+  - Aji Charapita
+  - Aji Panca
+  - Aji Omnicolor
+  - Aji Fantasy
 
 ### Mushrooms
 

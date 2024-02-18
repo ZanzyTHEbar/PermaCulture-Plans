@@ -16,8 +16,6 @@ This is a collection of ideas and documentation for designing our garden.
 
 ## Introduction
 
-`Serta` is within plant hardiness [zone 9a to zone 10a][7].  This means that we can grow a wide variety of plants.  However, we must be careful to select plants that are appropriate for our climate.  We must also consider the soil, sunlight, water, and wind conditions of our garden.
-
 Developing a garden plan is a complex task.  There are many factors to consider, including:
 
 - [Soil][2]
